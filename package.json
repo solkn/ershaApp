@@ -8,6 +8,7 @@
   },
   "author": "Solomon",
   "license": "ISC",
+  "url":"https://github.com/solkn/ershaApp.git",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "cors": "^2.8.5",
